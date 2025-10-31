@@ -1,0 +1,6 @@
+Klasifikasi Tomat
+
+Deskripsi: Dataset citra tomat untuk klasifikasi dengan jumlah 1500 yang dibagi menjadi 3 kelas yaitu tomat matang,  tomat mentah, tomat busuk.
+
+Link download dataset: https://drive.google.com/file/d/1ORwaEI_8lLvimhvWkl2Kaywtzd1nJ7y-/view?usp=sharing
+Ukuran: 866 MB
